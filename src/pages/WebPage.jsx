@@ -169,9 +169,7 @@ const styles = {
   },
   button: {
     padding: '8px 16px',
-    border: 'none',
-    borderTop: '2px solid #08789a',
-    borderBottom: '2px solid #08789a',
+    border: '1px solid #08789a',
     borderRadius: '8px',
     backgroundColor: '#dbeff5ff',
     color: '#08789a',
